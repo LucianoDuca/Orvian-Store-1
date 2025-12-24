@@ -1,0 +1,192 @@
+.credits-box
+{
+width: 210px;
+margin-left: 20px;
+}
+
+.credits
+{
+
+
+font-family: "Jacquard 12", system-ui;
+font-weight: 400;
+font-style: normal;
+font-size: 15px;
+
+}
+
+.created-in{
+    font-family: "Jacquard 12", system-ui;
+    font-size: 19px;
+    color: aliceblue;
+    margin: 0;
+}
+.credits:hover
+{
+    color: aliceblue;
+    text-shadow: 0px 0px 10px white;
+}
+
+h1
+{
+    margin: 0;
+    color: rgb(255, 96, 47);
+    text-align: center ;
+    font-size:70px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+h1:hover
+{
+    text-shadow: 0px 0px 100px rgb(255, 0, 0);
+}
+
+
+body{
+    margin: auto;
+    background-color: rgb(0, 0, 0);
+
+}   
+
+.eslogan-type
+{
+    text-align: center;
+    width: 260px;
+    height: 20px;
+    margin: 30px auto;
+}
+
+.eslogan-type:hover
+{
+background-color: rgb(255, 96, 47);
+box-shadow: 0px 0px 44px rgb(255, 0, 0);
+}
+
+.eslogan-text
+{
+    color: aliceblue;
+    text-transform: uppercase;
+    
+}
+.eslogan-text:hover
+{
+    color: rgb(255, 255, 255);
+}
+
+
+p{
+    opacity:100%;
+    color: rgb(255, 96, 47);
+    padding: 2%;
+    font-size: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.box-logo
+{
+width: 240px;
+height: 130px;
+padding: 20px;
+margin: 80px auto;
+
+
+}
+
+.contenedor-logo{
+    background-image: url(https://i.pinimg.com/1200x/90/49/d0/9049d0e7766266c10e9e799a9bed945c.jpg);
+    background-size: cover;
+}
+
+.Options-to-click
+{
+    list-style:none;
+    margin: auto;
+    padding-bottom: 90px;
+}
+
+li
+{   margin: 0;
+    width: 130px;
+    padding: 5px;
+    border: solid 1px rgb(255, 96, 47);
+    margin: 20px auto;
+    text-align: center;
+    border-radius: 6px;
+}
+
+li:hover
+{
+    background-color: rgb(255, 96, 47);
+    box-shadow: 0px 0px 44px rgb(255, 96, 47);
+}
+
+a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: aliceblue;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+
+.coming-soon
+{
+    width: 100%;
+    text-align: center;
+}
+
+h3
+{
+    color: red;
+    font-size: 30px;
+    font-family: "Jacquard 12", "system-ui";
+    font-weight: 100;
+}
+
+.box-g
+{
+    margin-top: 40px;
+}
+
+.box-model-stock
+{
+    width: 330px;
+    height: 400px;
+    background-color: transparent;
+    margin: auto;
+    box-shadow: 0px 0px 90px rgb(50, 12, 12);
+    border-radius: 20px;
+    margin-top: 50px;
+    border: solid 1px rgb(255, 0, 0)
+}
+
+h5
+{
+    text-align: center;
+    color: aliceblue;
+    text-transform: uppercase;
+    text-shadow: 0px 0px 60px aliceblue;
+    margin: 0;
+    margin-top: 16px;
+    font-size: 20px;
+
+}
+
+h6
+{
+    color: aliceblue;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    margin: 0;
+    margin-top: 5px;
+    font-size: 8px;
+    text-align: center;
+}
+
+.box-stock-img
+{
+    width: 300px;
+    padding: 14px;
+    border-radius: 25px;
+}
